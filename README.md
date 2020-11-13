@@ -7,8 +7,11 @@ In my spare time, I have been known to dabble in video game design and tinkering
 Find me at:
 
 • Email: stevenmwestmoreland@gmail.com
+
 • LinkedIn: https://www.linkedin.com/in/stevenmwestmoreland/
+
 • My Portfolio: https://stevenwestmoreland.github.io/
+
 • And of course, my GitHub (which you are already at): https://github.com/StevenWestmoreland
 
 ![Steven's github stats](https://github-readme-stats.vercel.app/api?username=StevenWestmoreland&show_icons=true&theme=tokyonight)
